@@ -1,0 +1,33 @@
+_repo: Life-of-Lord-Byron-Vol.-5--13-With-His-Letters-and-Journals_16609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Thomas
+    aliases:
+    - Brown, Thomas, the younger
+    - Little, Thomas
+    - Moore, Tom
+    - Moore, Anacreon
+    birthdate: 1779
+    deathdate: 1852
+    gutenberg_agent_id: '2185'
+    url: http://www.gutenberg.org/2009/agents/2185
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
+description: ''
+gutenberg_issued: '2005-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824'
+title: "Life of Lord Byron, Vol. 5\r\nWith His Letters and Journals"
+url: http://www.gutenberg.org/ebooks/16609
